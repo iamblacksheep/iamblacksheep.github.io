@@ -1,0 +1,17 @@
+body 
+{
+	background: #ccc;
+	font-family: Arial;
+}
+#main-container {
+	text-align: center;
+	margin: 50px 0;
+}
+#main-container img {
+	border: 5px solid #fff;
+	border-radius: 100px;
+}
+.jumbotron { margin: 50px 100px;}
+
+
+
